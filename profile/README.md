@@ -16,15 +16,15 @@ Our team is comprised of students with all sorts of abilities. Being part of thi
 
 ## RoboRescue UMA Github Repositories Organization
 
-This Github organization contains code, documentation and additional material elaborated by the RoboRescue UMA Team. In particular, it contains repositories related to the RoboRescue UMA activities. These repos are structured as follows
+This Github organization contains code, documentation and additional material elaborated by the RoboRescue UMA Team. All this information is organized in github repositories structured as follows
 
 - [Sensors](../docs/sensors_repos.md)
-- [Actuators](../docs/actuators_repos.md)
-- [Controllers](../docs/controllers_repos.md)
-- [Electronics](../docs/electronics_repos.md)
-- [Utils](../docs/utils_repos.md)
-- [Courses and Tutorials](../docs/tutorials_repos.md)
-- [Others](../docs/others_repos.md)
+- [Actuators](.github/docs/actuators_repos.md)
+- [Controllers](.github/docs/controllers_repos.md)
+- [Electronics](.github/docs/electronics_repos.md)
+- [Utils](.github/docs/utils_repos.md)
+- [Courses and Tutorials](.github/docs/tutorials_repos.md)
+- [Others](.github/docs/others_repos.md)
 
 
 ## RoboRescue UMA Team
