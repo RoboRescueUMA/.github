@@ -14,37 +14,58 @@ Our team is comprised of students with all sorts of abilities. Being part of thi
 [Instagram](https://www.instagram.com/roborescueuma/?igshid=YmMyMTA2M2Y%3D) |
 [Mail](mailto:roborescue@uma.es)
 
-# RoboRescue UMA Github Organization
+## RoboRescue UMA Github Repositories Organization
 
 This Github organization contains code, documentation and additional material elaborated by the RoboRescue UMA Team. In particular, it contains repositories related to the RoboRescue UMA activities. These repos are structured as follows
 
-- [Sensors](sensors_repos.md)
-- [Actuators](actuators_repos.md)
-- [Controllers](controllers_repos.md)
-- [Electronics](electronics_repos.md)
-- [Utils](utils_repos.md)
-- [Courses and Tutorials](tutorials_repos.md)
-- [Others](others_repos.md)
+- [Sensors](../docs/sensors_repos.md)
+- [Actuators](../docs/actuators_repos.md)
+- [Controllers](../docs/controllers_repos.md)
+- [Electronics](../docs/electronics_repos.md)
+- [Utils](../docs/utils_repos.md)
+- [Courses and Tutorials](../docs/tutorials_repos.md)
+- [Others](../docs/others_repos.md)
 
 
-# RoboRescue UMA Team
+## RoboRescue UMA Team
 The RoboRescue Team is structured as follows:
 
 - Responsible Professors
   - [Antonio J. Muñoz](https://github.com/ajmunoz00)
   - [Juan M. Gandarias](https://github.com/jmgandarias)
-  - [Jesús M. Gómez-de-Gabriel](https://github.com/JManuelGomez)
 
-- Teams
-  - [Mechanics](mechanics_team.md)
-  - [Electronics](electronics_team.md)
-  - [Software](software_team.md)
-  - [Autonomy](autonomy_team.md)
+- Team Leader
+  - [Antonio Ruíz Espinosa](https://github.com/Nano98)
+
+- Groups
+  - Mechanics
+    - [Nuria Aguilar Sánchez (Group Leader)](https://github.com/nuaguisan)
+  - Electronics
+    - [Antonio Ruíz Espinosa (Group Leader)](https://github.com/Nano98)
+  - Control
+    - [Pascual González Redondo](https://github.com/Paskuich)
+  - Software
+    - [Diego Caruana Montes](https://github.com/DiegoCaruanaMontes)
+  - Autonomy
+    - [Miguel Ian](https://github.com/MiguelIIan)
+
+- Collaborative Professors
+  - Jesús Manuel Gómez de Gabriel, Departamento de Ingenierías de Sistemas y Automática
+  - Amalia Cristina Urdiales García, Departamento de Tecnología Electrónica
+  - María Jesús López Baldán, Departamento de Ingenierías de Sistemas y Automática
+  - Raquel Fernández Ramos, Departamento de Electrónica 
+  - Jorge Romero Sánchez, Departamento de Electrónica 
+  - Ricardo Vázquez Martín, Departamento de Ingeniería de Sistemas y Automática 
+  - Ignacio González Prieto, Departamento de Ingeniería Eléctrica 
+  - Elidia Beatriz Blazquez Parra, Departamento de Expresión Gráfica, Diseño y Proyectos
+  - María Sánchez González, Departamento de Periodismo
  
 - Former members
-  - 
+  - [Danil Pavlenko](https://github.com/Danilrivero)
 
+## Instructions to edit this repo
 
+The instructions to edit this repo are shown [here](../README.md)
 
 
 

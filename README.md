@@ -1,18 +1,8 @@
-# [RoboRescue UMA](https://roborescue.uma.es)
+This repo contains all the information that is displayed in the main profile page of the Github organization. 
 
-<img src="https://roborescue.uma.es/wp-content/uploads/2021/07/cropped-cropped-Logo-Youtube-03-03.png" align="center">
+If you want to modify that information, go to [profile/README.md](profile/README.md)
 
-## RoboRescue UMA | University of Málaga
-
-**RoboRescue UMA is a robotics team with the aim of building a robot for participating in the RoboCup Rescue Robot League.**
-
-Our team is comprised of students with all sorts of abilities. Being part of this group is an enriching experience for all the members that can learn different skills from their peers and contribute to an exciting project in which knowledge from several fields is required. Electronics, programming, communication protocols, 3D modeling and printing are some examples. However, nothing is more crucial than working as a team and helping each other to overcome the challenges that show up everyday. On this website, we would like to share with you the results of our long but enjoyable journey. 
-
-
-
-
-
-[Web](https://roborescue.uma.es/) |
-[LinkedIn](https://www.linkedin.com/company/roborescue-uma/) |
-[Instagram](https://www.instagram.com/roborescueuma/?igshid=YmMyMTA2M2Y%3D) |
-[Mail](mailto:roborescue@uma.es)
+How to edit this repo:
+- If you want to modify the main page, you can directly modify that README file.
+- If you want to create a new document to be linked from the README, create that document inside [docs](docs/).
+- If you want to create (or have created already) a new repository, include it in the list to be make it easily accessible to all the team members. If you aren't sure where this repo should go, ask the responsible professors or your group leader.
