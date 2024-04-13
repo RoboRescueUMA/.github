@@ -18,13 +18,13 @@ Our team is comprised of students with all sorts of abilities. Being part of thi
 
 This Github organization contains code, documentation and additional material elaborated by the RoboRescue UMA Team. All this information is organized in github repositories structured as follows
 
-- [Sensors](../../../roborescue_github/.github/docs/sensors_repos.md)
-- [Actuators](~/actuators_repos.md)
-- [Controllers](.github/docs/controllers_repos.md)
-- [Electronics](.github/docs/electronics_repos.md)
-- [Utils](.github/docs/utils_repos.md)
-- [Courses and Tutorials](.github/docs/tutorials_repos.md)
-- [Others](.github/docs/others_repos.md)
+- [Sensors](https://github.com/RoboRescueUMA/.github/blob/main/docs/sensors_repos.md)
+- [Actuators](https://github.com/RoboRescueUMA/.github/blob/main/docs/actuators_repos.md)
+- [Controllers](https://github.com/RoboRescueUMA/.github/blob/main/docs/controllers_repos.md)
+- [Electronics](https://github.com/RoboRescueUMA/.github/blob/main/docs/electronics_repos.md)
+- [Utils](https://github.com/RoboRescueUMA/.github/blob/main/docs/utils_repos.md)
+- [Courses and Tutorials](https://github.com/RoboRescueUMA/.github/blob/main/docs/tutorials_repos.md)
+- [Others](https://github.com/RoboRescueUMA/.github/blob/main/docs/tutorials_repos.md)
 
 
 ## RoboRescue UMA Team
@@ -43,11 +43,11 @@ The RoboRescue Team is structured as follows:
   - Electronics
     - [Antonio Ruíz Espinosa (Group Leader)](https://github.com/Nano98)
   - Control
-    - [Pascual González Redondo](https://github.com/Paskuich)
+    - [Pascual González Redondo (Group Leader)](https://github.com/Paskuich)
   - Software
-    - [Diego Caruana Montes](https://github.com/DiegoCaruanaMontes)
+    - [Diego Caruana Montes (Group Leader)](https://github.com/DiegoCaruanaMontes)
   - Autonomy
-    - [Miguel Ian](https://github.com/MiguelIIan)
+    - [Miguel Ian (Group Leader)](https://github.com/MiguelIIan)
 
 - Collaborative Professors
   - Jesús Manuel Gómez de Gabriel, Departamento de Ingenierías de Sistemas y Automática
