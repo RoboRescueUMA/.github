@@ -38,10 +38,11 @@ The RoboRescue Team is structured as follows:
   - [Antonio Ruíz Espinosa](https://github.com/Nano98)
 
 - Groups
-  - Mechanics
+  - Hardware
     - [Nuria Aguilar Sánchez (Group Leader)](https://github.com/nuaguisan)
-  - Electronics
-    - [Antonio Ruíz Espinosa (Group Leader)](https://github.com/Nano98)
+    - [Juan López Puebla (Group Leader)](https://github.com/JuanLopezP)
+    - [Ibai Gutiérrez Páez](https://github.com/IbaiGutierrezPaez)
+    - 
   - Control
     - [Pascual González Redondo (Group Leader)](https://github.com/Paskuich)
   - Software
