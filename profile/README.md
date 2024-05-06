@@ -42,13 +42,15 @@ The RoboRescue Team is structured as follows:
     - [Nuria Aguilar Sánchez (Group Leader)](https://github.com/nuaguisan)
     - [Juan López Puebla (Group Leader)](https://github.com/JuanLopezP)
     - [Ibai Gutiérrez Páez](https://github.com/IbaiGutierrezPaez)
-    - 
-  - Control
-    - [Pascual González Redondo (Group Leader)](https://github.com/Paskuich)
+  
   - Software
     - [Diego Caruana Montes (Group Leader)](https://github.com/DiegoCaruanaMontes)
-  - Autonomy
     - [Miguel Ian (Group Leader)](https://github.com/MiguelIIan)
+    - [Pascual González Redondo](https://github.com/Paskuich)
+    - [Yegor Antonio Radchenko Villacrés](https://github.com/YegorRad)
+    - [Francisco de Paula Carbonero Navarro](https://github.com/Stalegaard)
+    - [Iván Moreno Ladaga](https://github.com/TnTivanTnT)
+
 
 - Collaborative Professors
   - Jesús Manuel Gómez de Gabriel, Departamento de Ingenierías de Sistemas y Automática
