@@ -44,6 +44,8 @@ The RoboRescue Team is structured as follows:
     - [Ibai Gutiérrez Páez](https://github.com/IbaiGutierrezPaez)
     - [Luis España Carnero](https://github.com/LuisEC0)
     - [Javier Aguayo Hernández](https://github.com/Jackks27)
+    - [Nicolás Acebal Colli](https://github.com/harasmeant)
+    - [Iván Calvo Santos](https://github.com/IvanCS-Chenfu)
   
   - Software
     - [Diego Caruana Montes (Group Leader)](https://github.com/DiegoCaruanaMontes)
@@ -52,6 +54,8 @@ The RoboRescue Team is structured as follows:
     - [Yegor Antonio Radchenko Villacrés](https://github.com/YegorRad)
     - [Francisco de Paula Carbonero Navarro](https://github.com/Stalegaard)
     - [Iván Moreno Ladaga](https://github.com/TnTivanTnT)
+
+
 
 
 - Collaborative Professors
