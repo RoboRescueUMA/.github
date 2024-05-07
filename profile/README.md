@@ -42,6 +42,8 @@ The RoboRescue Team is structured as follows:
     - [Nuria Aguilar Sánchez (Group Leader)](https://github.com/nuaguisan)
     - [Juan López Puebla (Group Leader)](https://github.com/JuanLopezP)
     - [Ibai Gutiérrez Páez](https://github.com/IbaiGutierrezPaez)
+    - [Luis España Carnero](https://github.com/LuisEC0)
+    - [Javier Aguayo Hernández](https://github.com/Jackks27)
   
   - Software
     - [Diego Caruana Montes (Group Leader)](https://github.com/DiegoCaruanaMontes)
