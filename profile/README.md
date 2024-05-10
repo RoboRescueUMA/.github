@@ -54,6 +54,8 @@ The RoboRescue Team is structured as follows:
     - [Yegor Antonio Radchenko Villacrés](https://github.com/YegorRad)
     - [Francisco de Paula Carbonero Navarro](https://github.com/Stalegaard)
     - [Iván Moreno Ladaga](https://github.com/TnTivanTnT)
+    - [Liliya Bakhurska](https://github.com/lilibak)
+    - [Alonso Moreno Gutiérrez](https://github.com/alonsomornguti)
 
 
 
