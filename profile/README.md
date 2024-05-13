@@ -31,7 +31,7 @@ This Github organization contains code, documentation and additional material el
 The RoboRescue Team is structured as follows:
 
 - Responsible Professors
-  - [Antonio J. Muñoz](https://github.com/ajmunoz00)
+  - [Antonio J. Muñoz](https://github.com/ajmunoz00)[[email]()]
   - [Juan M. Gandarias](https://github.com/jmgandarias)
 
 - Team Leader
@@ -58,6 +58,7 @@ The RoboRescue Team is structured as follows:
     - [Liliya Bakhurska](https://github.com/lilibak)
     - [Alonso Moreno](https://github.com/alonsomornguti)
     - [Iván Calvo](https://github.com/IvanCS-Chenfu)
+    - [Juan Guerrero](https://github.com/Juan-Gue)
 
 
 
