@@ -35,27 +35,29 @@ The RoboRescue Team is structured as follows:
   - [Juan M. Gandarias](https://github.com/jmgandarias)
 
 - Team Leader
-  - [Antonio Ruíz Espinosa](https://github.com/Nano98)
+  - [Antonio Ruíz](https://github.com/Nano98)
 
 - Groups
   - Hardware
-    - [Nuria Aguilar Sánchez (Group Leader)](https://github.com/nuaguisan)
+    - [Nuria Aguilar (Group Leader)](https://github.com/nuaguisan)
     - [Juan López Puebla (Group Leader)](https://github.com/JuanLopezP)
-    - [Ibai Gutiérrez Páez](https://github.com/IbaiGutierrezPaez)
-    - [Luis España Carnero](https://github.com/LuisEC0)
-    - [Javier Aguayo Hernández](https://github.com/Jackks27)
-    - [Nicolás Acebal Colli](https://github.com/harasmeant)
-    - [Iván Calvo Santos](https://github.com/IvanCS-Chenfu)
-  
+    - [Ibai Gutiérrez](https://github.com/IbaiGutierrezPaez)
+    - [Luis España](https://github.com/LuisEC0)
+    - [Javier Aguayo](https://github.com/Jackks27)
+    - [Nicolás Acebal](https://github.com/harasmeant)
+    - [Manuel Díaz](https://github.com/manudg05)
+    - [Celia Jiménez](https://github.com/CeliaJim)
+
   - Software
-    - [Diego Caruana Montes (Group Leader)](https://github.com/DiegoCaruanaMontes)
+    - [Diego Caruana (Group Leader)](https://github.com/DiegoCaruanaMontes)
     - [Miguel Ian (Group Leader)](https://github.com/MiguelIIan)
-    - [Pascual González Redondo](https://github.com/Paskuich)
-    - [Yegor Antonio Radchenko Villacrés](https://github.com/YegorRad)
-    - [Francisco de Paula Carbonero Navarro](https://github.com/Stalegaard)
-    - [Iván Moreno Ladaga](https://github.com/TnTivanTnT)
+    - [Pascual González](https://github.com/Paskuich)
+    - [Yegor Antonio Radchenko](https://github.com/YegorRad)
+    - [Francisco de Paula Carbonero](https://github.com/Stalegaard)
+    - [Iván Moreno](https://github.com/TnTivanTnT)
     - [Liliya Bakhurska](https://github.com/lilibak)
-    - [Alonso Moreno Gutiérrez](https://github.com/alonsomornguti)
+    - [Alonso Moreno](https://github.com/alonsomornguti)
+    - [Iván Calvo](https://github.com/IvanCS-Chenfu)
 
 
 
