@@ -40,8 +40,6 @@ This Github organization contains code, documentation and additional material el
   - Elidia Beatriz Blazquez Parra, Departamento de Expresión Gráfica, Diseño y Proyectos
   - María Sánchez González, Departamento de Periodismo
  
-- Former members
-  - [Danil Pavlenko](https://github.com/Danilrivero)
 
 ## Instructions to edit this repo
 
