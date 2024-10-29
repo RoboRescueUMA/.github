@@ -28,43 +28,8 @@ This Github organization contains code, documentation and additional material el
 - [Others](https://github.com/RoboRescueUMA/.github/blob/main/docs/others_repos.md)
 
 
-## RoboRescue UMA Team
-The RoboRescue Team is structured as follows:
+## RoboRescue Colaborative Professors
 
-- Responsible Professors
-  - [Antonio J. Muñoz](https://github.com/ajmunoz00)[[email]()]
-  - [Juan M. Gandarias](https://github.com/jmgandarias)
-
-- Team Leader
-  - [Antonio Ruíz](https://github.com/Nano98)
-
-- Groups
-  - Hardware
-    - [Nuria Aguilar (Group Leader)](https://github.com/nuaguisan)
-    - [Juan López Puebla (Group Leader)](https://github.com/JuanLopezP)
-    - [Ibai Gutiérrez](https://github.com/IbaiGutierrezPaez)
-    - [Luis España](https://github.com/LuisEC0)
-    - [Javier Aguayo](https://github.com/Jackks27)
-    - [Nicolás Acebal](https://github.com/harasmeant)
-    - [Manuel Díaz](https://github.com/manudg05)
-    - [Celia Jiménez](https://github.com/CeliaJim)
-
-  - Software
-    - [Diego Caruana (Group Leader)](https://github.com/DiegoCaruanaMontes)
-    - [Miguel Ian (Group Leader)](https://github.com/MiguelIIan)
-    - [Pascual González](https://github.com/Paskuich)
-    - [Yegor Antonio Radchenko](https://github.com/YegorRad)
-    - [Francisco de Paula Carbonero](https://github.com/Stalegaard)
-    - [Iván Moreno](https://github.com/TnTivanTnT)
-    - [Liliya Bakhurska](https://github.com/lilibak)
-    - [Alonso Moreno](https://github.com/alonsomornguti)
-    - [Iván Calvo](https://github.com/IvanCS-Chenfu)
-    - [Juan Guerrero](https://github.com/Juan-Gue)
-
-
-
-
-- Collaborative Professors
   - Jesús Manuel Gómez de Gabriel, Departamento de Ingenierías de Sistemas y Automática
   - Amalia Cristina Urdiales García, Departamento de Tecnología Electrónica
   - María Jesús López Baldán, Departamento de Ingenierías de Sistemas y Automática
