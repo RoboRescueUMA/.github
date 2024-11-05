@@ -24,7 +24,7 @@ This Github organization contains code, documentation and additional material el
 - [Simulation](https://github.com/RoboRescueUMA/.github/blob/main/docs/simulation_repos.md)
 - [Electronics](https://github.com/RoboRescueUMA/.github/blob/main/docs/electronics_repos.md)
 - [Utils](https://github.com/RoboRescueUMA/.github/blob/main/docs/utils_repos.md)
-- [Courses and Tutorials](https://github.com/RoboRescueUMA/.github/blob/main/docs/tutorials_repos.md)
+- [Courses and Tutorials](https://github.com/RoboRescueUMA/rr_welcome_kit)
 - [Others](https://github.com/RoboRescueUMA/.github/blob/main/docs/others_repos.md)
 
 
