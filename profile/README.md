@@ -1,6 +1,8 @@
 # [RoboRescue UMA](https://roborescue.uma.es)
 
-<img src="https://roborescue.uma.es/wp-content/uploads/2021/07/cropped-cropped-Logo-Youtube-03-03.png" align="center">
+<img src="https://github.com/user-attachments/assets/ab9ed6a9-965b-4166-8ae4-e6f4a5f7fe45" align="center">
+
+
 
 ## RoboRescue UMA | University of Málaga
 
